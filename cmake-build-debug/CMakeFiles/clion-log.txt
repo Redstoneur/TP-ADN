@@ -1,0 +1,4 @@
+C:\Users\alfaa\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/alfaa/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/bin/ninja/win/ninja.exe -G Ninja -S "C:\Alipio\Prog_Cour\Programmation_C\2ème Année\S4\Algorithmique\TP-ADN" -B "C:\Alipio\Prog_Cour\Programmation_C\2ème Année\S4\Algorithmique\TP-ADN\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Alipio/Prog_Cour/Programmation_C/2ème Année/S4/Algorithmique/TP-ADN/cmake-build-debug
