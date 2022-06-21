@@ -1,0 +1,5 @@
+Actuellement, le programme ne marche pas. On a réussi à identifier le moment de bloquage.
+Les deux premiers motifs sont crées. Cependant, le code plante quand il passe au troisième motif.
+La liste chainée pour les positions n'est pas utilisé mais le struture est dans le .h.
+Les défi 2 et 3 ne sont pas fait il y a seulement le 1er défi.
+
